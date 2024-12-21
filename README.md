@@ -7,7 +7,8 @@
 StorylineProgress is a smart contract built on the Ethereum blockchain to track and reward users' progression through a series of unlockable story chapters. Each chapter unlocks rewards for users, which can be claimed in ETH. The contract is designed to integrate seamlessly with educational or entertainment platforms, providing a transparent and secure method for tracking progress and distributing rewards.
 
 ## Contract Address
-> _Contract Address_: T0x24b0d9493d4721116ecdEaBE98cb974396C5ADc4
+> _Contract Address_: 0x24b0d9493d4721116ecdEaBE98cb974396C5ADc4
+![image](https://github.com/user-attachments/assets/a4640aae-45fc-4021-98be-edcce7e0b840)
 
 ## Project Vision
 The vision of StorylineProgress is to create an engaging and transparent mechanism for incentivizing learning and interaction. By leveraging blockchain technology, the project ensures that rewards and progress tracking are immutable, fair, and decentralized. This system can be used in gamified learning environments, interactive storytelling platforms, or educational tools to encourage user engagement.
